@@ -1,0 +1,22 @@
+# Volatile UI state
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/app.json
+
+# Cache
+.obsidian/cache/
+
+# Large plugin files (keep plugin settings)
+.obsidian/plugins/*/
+
+# But keep plugin manifests and settings
+!.obsidian/plugins/*/manifest.json
+!.obsidian/plugins/*/data.json
+
+# System
+.trash/
+.DS_Store
+
+temp/temp.md
+
+.obsidian/
