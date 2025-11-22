@@ -1,0 +1,1 @@
+https://wasm-bindgen.github.io/wasm-bindgen/?search=logging
