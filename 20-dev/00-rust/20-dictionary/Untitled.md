@@ -3,9 +3,11 @@ methods:
 	.to_lowercase()
 	.flat_map()
 	.par_iter()
+	.par_bridge()
 	.map()
 	.filter()
 	.fold()
+	.find()
 	.collect()
 	.copied()
 	.filter_map()
@@ -13,10 +15,21 @@ methods:
 	.any()
 	.all()
 	.position()
+	.fetch_add()
+	.load()
+	.ends_with()
+	.enumerate()
+	.saturating_sub()
+	.try_fold()
 	
 	
 crates:
 	use memchr::memmem;
+	
+traits:
+	AsRef<str>
+	PartialEq
+	
 	
 ```
 

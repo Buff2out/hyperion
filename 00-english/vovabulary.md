@@ -4,3 +4,8 @@ straightforward - ![[Pasted image 20251105170221.png]]
 
 contiguous - смежный
 compassionate - сострадательный
+
+wise - мудрый
+
+$(a \cdot b) \pmod m$.
+

@@ -1,0 +1,1 @@
+https://getcracked.io/questions
